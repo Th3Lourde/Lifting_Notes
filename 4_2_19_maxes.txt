@@ -1,0 +1,12 @@
+BS: 385
+DL: 450
+BP: 245
+Press: 165
+
+Days: M,T,TH,F
+
+
+
+
+
+
